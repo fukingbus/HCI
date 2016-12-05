@@ -1,0 +1,163 @@
+{
+	"products" : {
+		"sta": {
+			"pen" : [
+				{
+					"itemId" : "sta_0",
+					"itemName" : "Painter Pullman JM20",
+					"itemShortDesc" : "This is a pen",
+					"itemLongDesc" : "This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.",
+					"itemPrice" : "500",
+					"itemStock" : "1000"
+				},
+				{
+					"itemId" : "sta_1",
+					"itemName" : "125 anniversary JOTTER ",
+					"itemShortDesc" : "This is a pen",
+					"itemLongDesc" : "This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.",
+					"itemPrice" : "500",
+					"itemStock" : "1000"
+				},
+				{
+					"itemId" : "sta_2",
+					"itemName" : "Pilot Fountain SPN-20F-CL",
+					"itemShortDesc" : "This is a pen",
+					"itemLongDesc" : "This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.",
+					"itemPrice" : "500",
+					"itemStock" : "1000"
+				},
+				{
+					"itemId" : "sta_3",
+					"itemName" : "Pilot V pen in character",
+					"itemShortDesc" : "This is a pen",
+					"itemLongDesc" : "This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.",
+					"itemPrice" : "500",
+					"itemStock" : "1000"
+				},
+				{
+					"itemId" : "sta_4",
+					"itemName" : "Platinum fountain Preps",
+					"itemShortDesc" : "This is a pen",
+					"itemLongDesc" : "This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.",
+					"itemPrice" : "500",
+					"itemStock" : "1000"
+				}
+			],
+			"highlightPen" : [
+				{
+					"itemId" : "sta_5",
+					"itemName" : "STAEDTLER Fluorescence Yellow",
+					"itemShortDesc" : "This is a pen",
+					"itemLongDesc" : "This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.",
+					"itemPrice" : "500",
+					"itemStock" : "1000"
+				},
+				{
+					"itemId" : "sta_6",
+					"itemName" : "STAEDTLER Fluorescence Blue",
+					"itemShortDesc" : "This is a pen",
+					"itemLongDesc" : "This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.",
+					"itemPrice" : "500",
+					"itemStock" : "1000"
+				}
+			],
+			"pencil" : [
+				{
+					"itemId" : "sta_7",
+					"itemName" : "Staedtler Norica Rubber Tip",
+					"itemShortDesc" : "This is a pen",
+					"itemLongDesc" : "This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.This is a pen.",
+					"itemPrice" : "500",
+					"itemStock" : "1000"
+				}
+			]
+		},
+	"ele" : {
+			"apple" : [
+				{
+					"itemId" : "ele_0",
+					"itemName" : "Apple - EarPods™ with Remote and Mic - White",
+					"itemShortDesc" : "This is an apple",
+					"itemLongDesc" : "This is an apple.This is an apple.This is an apple.This is an apple.",
+					"itemPrice" : "900",
+					"itemStock" : "9999"
+				},
+				{
+					"itemId" : "ele_1",
+					"itemName" : "Macbook - 12\" Display" ,
+					"itemShortDesc" : "This is an apple",
+					"itemLongDesc" : "This is an apple.This is an apple.This is an apple.This is an apple.",
+					"itemPrice" : "900",
+					"itemStock" : "9999"
+				},
+				{
+					"itemId" : "ele_2",
+					"itemName" : "Apple Watch Nike" ,
+					"itemShortDesc" : "This is an apple",
+					"itemLongDesc" : "This is an apple.This is an apple.This is an apple.This is an apple.",
+					"itemPrice" : "900",
+					"itemStock" : "9999"
+				},
+				{
+					"itemId" : "ele_3",
+					"itemName" : "Apple Watch Series 2" ,
+					"itemShortDesc" : "This is an apple",
+					"itemLongDesc" : "This is an apple.This is an apple.This is an apple.This is an apple.",
+					"itemPrice" : "900",
+					"itemStock" : "9999"
+				},
+				{
+					"itemId" : "ele_4",
+					"itemName" : "MacBook Air" ,
+					"itemShortDesc" : "This is an apple",
+					"itemLongDesc" : "This is an apple.This is an apple.This is an apple.This is an apple.",
+					"itemPrice" : "900",
+					"itemStock" : "9999"
+				},
+				{
+					"itemId" : "ele_5",
+					"itemName" : "MacBook® Pro - 15.4\" Display" ,
+					"itemShortDesc" : "This is an apple",
+					"itemLongDesc" : "This is an apple.This is an apple.This is an apple.This is an apple.",
+					"itemPrice" : "900",
+					"itemStock" : "9999"
+				},
+				{
+					"itemId" : "ele_6",
+					"itemName" : "MacBook Pro® with Touch Bar - 13\" Display" ,
+					"itemShortDesc" : "This is an apple",
+					"itemLongDesc" : "This is an apple.This is an apple.This is an apple.This is an apple.",
+					"itemPrice" : "900",
+					"itemStock" : "9999"
+				}
+			],
+			"lenovo" : [
+				
+				{
+					"itemId" : "ele_7",
+					"itemName" : "ThinkPad Helix Gen 2" ,
+					"itemShortDesc" : "This is a lenovo",
+					"itemLongDesc" : "This is a lenovo.This is a lenovo.This is a lenovo.",
+					"itemPrice" : "900",
+					"itemStock" : "9999"
+				},
+				{
+					"itemId" : "ele_8",
+					"itemName" : "ThinkPad X1 Yoga" ,
+					"itemShortDesc" : "This is a lenovo.",
+					"itemLongDesc" : "This is a lenovo.This is a lenovo.This is a lenovo.",
+					"itemPrice" : "900",
+					"itemStock" : "9999"
+				},
+				{
+					"itemId" : "ele_9",
+					"itemName" : "ThinkPad X260" ,
+					"itemShortDesc" : "This is a lenovo.",
+					"itemLongDesc" : "This is a lenovo.This is a lenovo.This is a lenovo.",
+					"itemPrice" : "900",
+					"itemStock" : "9999"
+				}
+			]
+		}
+	}
+}

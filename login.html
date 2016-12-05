@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Login</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/shop.css" rel="stylesheet">
+    <link href="css/details.css" rel="stylesheet">
+    <link href="css/funkyradio.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">Home</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul id="navigationBar" class="nav navbar-nav pull-right pull-right">
+                	<li>
+                    	<a href="cart.html">Shopping Cart</a>
+                    </li>
+                    <li>
+                    	<a href="register.html">Register Now</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+    <!-- Page Content -->
+    <div class="container">
+    <div class="row">
+        <div class="col-md-4 col-md-offset-4">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <h5 class="text-center">
+                       LOGIN</h5>
+                    <form id="regForm" class="form form-signup" role="form">
+                    <div id="formContainer">
+	                    <div class="form-group">
+	                        <div class="input-group">
+	                            <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+	                            <input id="usernameBox" type="text" class="form-control" placeholder="Username" required/>
+	                            
+	                        </div>
+	                        <label id="usernameBox-error" class="error" for="usernameBox" style="display: none;">This field is required.</label>
+	                    </div>
+	                    
+	                    <div class="form-group">
+	                        <div class="input-group">
+	                            <span class="input-group-addon"><span class="glyphicon glyphicon-lock"></span></span>
+	                            <input id="passwordBox" type="password" class="form-control" placeholder="Password" required/>
+	                        </div>
+	                        <label id="passwordBox-error" class="error" for="passwordBox" style="display: none;">This field is required.</label>
+	                    </div>
+                    </div>
+                    <span id="errorMsg" style="display:none;color:#f44336;">Account not found or password mismatch</span>
+                    
+                    <div class="form-group">
+			    		 <div class="funkyradio">
+					        <div class="funkyradio-primary">
+					            <input type="checkbox" name="checkbox" id="checkbox2" />
+					            <label for="checkbox2">Remember Me</label>
+					        </div>
+					    </div>
+			    		
+			    		
+			    	</div>
+                </div>
+                <input id="submitButton" type="button" value="Submit" class="btn btn-sm btn-primary btn-block"></form>
+            </div>
+        </div>
+    </div>
+</div>
+</div> 
+</div>
+    </div>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/jqui.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="js/jscookie.js"></script>
+    <script src="js/login.js"></script>
+
+</body>
+
+</html>

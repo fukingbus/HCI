@@ -1,0 +1,28 @@
+{
+	"gifts" : [
+				{
+					"itemId" : "gift_0",
+					"itemName" : "Starbucks coupon" ,
+					"itemShortDesc" : "$25 coupon",
+					"itemPrice" : "250"
+				},
+				{
+					"itemId" : "gift_1",
+					"itemName" : "Wellcome coupon" ,
+					"itemShortDesc" : "$50 coupon",
+					"itemPrice" : "500"
+				},
+				{
+					"itemId" : "gift_2",
+					"itemName" : "Wellcome coupon" ,
+					"itemShortDesc" : "$100 coupon",
+					"itemPrice" : "950"
+				},
+				{
+					"itemId" : "gift_3",
+					"itemName" : "Parkn coupon" ,
+					"itemShortDesc" : "$50 coupon",
+					"itemPrice" : "500"
+				}
+	]
+}

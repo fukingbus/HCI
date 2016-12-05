@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Buy Best Products</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/shop.css" rel="stylesheet">
+    <link href="css/cart.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">Home</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul id="navigationBar" class="nav navbar-nav pull-right">
+                    
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+    	<div class="container">
+			    <br />
+			    <div class="row">
+			        
+			        <div class="ssl-container col-xs-12 col-sm-4 col-lg-3">
+			            <span class="ssl glyphicon glyphicon-user"></span>
+			            <span class="ssl-text">                
+			                <span id="loginDesc">YOU ARE LOGGED IN AS</span><br />
+			                <b id="loggedInUserText"></b>
+			            </span>        
+			            <div class="clearfix"></div>
+			        </div>
+			        
+			        <div class="col-xs-12 col-sm-8 col-lg-9">
+			            <div class="row">
+			            	
+			                <div class="col-xs-12 col-sm-4">
+			                    <div class="step done">
+			                        <span class="glyphicon glyphicon-shopping-cart"></span> 
+			                        Cart
+			                        <div class="hidden-xs caret right"></div>
+			                        <div class="visible-xs caret bottom"></div>
+			                    </div>          
+			                </div>
+			        
+			                <div class="col-xs-12 col-sm-4">
+			                    <div class="step done">
+			                            <span class="glyphicon glyphicon-usd"></span> 
+			                            Payment
+			                            <div class="hidden-xs caret right"></div>
+			                        <div class="visible-xs caret bottom"></div>
+			                    </div>
+			                </div>
+			            
+			                <div class="col-xs-12 col-sm-4">
+			                    <div class="step active">
+			                        <span class="glyphicon glyphicon-ok"></span> 
+			                        Confirmation            
+			                    </div>
+			                </div>
+			            </div>            
+			        </div>
+
+			        <hr class="col-xs-12" />    
+			    </div>
+			</div>
+		</div>
+		<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-4">
+		</div>
+		<div class="col-md-4">
+			<h3 class="text-center text-primary">
+				Order successful
+			</h3>
+			<p class="text-left">
+				Your order has been successfully completed.
+			</p>
+			<div>
+				The order information will be listed below, a confirmation email will be sent to your registered email account.</br>
+				Thank you once again for choosing <b>Buy Best Product</b>.</br></br>
+				<span id="userGiftPointInfo">123112512515</span>
+				</br></br>
+			</div>
+			
+			<div class="panel panel-info">
+				<div class="panel-heading">
+					<h3 class="panel-title">
+						Ordered items
+					</h3>
+				</div>
+				<div class="panel-body">
+					<table class="table table-hover">
+			                
+			                <tbody id="itemList">
+			                    
+			        		</tbody>
+			        </table>
+				</div>
+				<div class="panel-footer">
+					The estimated delivery time: 7 days
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4">
+		</div>
+	</div>
+</div>
+    <script src="js/jquery.js"></script>
+    <script src="js/jqui.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jscookie.js"></script>
+    <script src="js/confirm.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,179 @@
+{
+	"products" : {
+		"sta": {
+			"pen" : [
+				{
+					"itemId" : "sta_0",
+					"itemName" : "Painter Pullman JM20",
+					"itemShortDesc" : "The nibs of the soft-touch finish up the fountain pen type.",
+					"itemLongDesc" : "<ul><li>Ink composition: water-based dye</li>Cap safety: ISO standards<li>Size / weight is: 15 x 11 x 142 mm/11 g </li></ul>",
+					"itemPrice" : "14.5",
+					"itemStock" : "1000"
+				},
+				{
+					"itemId" : "sta_1",
+					"itemName" : "Platinum fountain pen",
+					"itemShortDesc" : "High-performance products",
+					"itemLongDesc" :  "<ul><li>Cartridge only</li>Length: 138 mm (folded) / 153 mm (when written)<li>Maximum body diameter: 12.0 mm</li><li>Weight: approx. 13 g</li></ul>",
+					"itemPrice" : "15",
+					"itemStock" : "2999"
+				},
+				{
+					"itemId" : "sta_2",
+					"itemName" : "Pilot V pen",
+					"itemShortDesc" : "Felt-tip pen easy",
+					"itemLongDesc" : "<ul><li>Type: felt-tip pens </li>Pettanko campaign ahead<li>Type: Cap </li><li>Inks: water-based dye</li></ul>",
+					"itemPrice" : "16",
+					"itemStock" : "987"
+				},
+				{
+					"itemId" : "sta_3",
+					"itemName" : "Pilot Fountain pen Clear(Blue)",
+					"itemShortDesc" : "Type Petit1-3rd SPN-20F-CL",
+					"itemLongDesc" : "<ul><li>Weight: approx. 13 g</li><li>Ink composition: water-based dye</li></ul>",
+					"itemPrice" : "13",
+					"itemStock" : "1400"
+				},
+				{
+					"itemId" : "sta_4",
+					"itemName" : "Parker Ballpoint pen",
+					"itemShortDesc" : "125 anniversary JOTTER Special Edition",
+					"itemLongDesc" : "<ul><li>Color: Black</li><li>Ink composition: water-based dye</li></ul>",
+					"itemPrice" : "21",
+					"itemStock" : "20"
+				}
+			],
+			"highlightPen" : [
+				{
+					"itemId" : "sta_5",
+					"itemName" : "STAEDTLER Fluorescence(Yellow)",
+					"itemShortDesc" : "Text surfer gel",
+					"itemLongDesc" : "<ul><li>Made from Japan</li><li>High qualily</li></ul>",
+					"itemPrice" : "12.5",
+					"itemStock" : "678"
+				},
+				{
+					"itemId" : "sta_6",
+					"itemName" : "STAEDTLER Fluorescence(Blue)",
+					"itemShortDesc" : "Text surfer gel",
+					"itemLongDesc" : "<ul><li>Made from Japan</li><li>High qualily</li></ul>",
+					"itemPrice" : "12.5",
+					"itemStock" : "689"
+				},
+				{
+					"itemId" : "sta_8",
+					"itemName" : "STAEDTLER Fluorescence(Green)",
+					"itemShortDesc" : "Text surfer gel",
+					"itemLongDesc" : "<ul><li>Made from Japan</li><li>High qualily</li></ul>",
+					"itemPrice" : "12.5",
+					"itemStock" : "765"
+				}
+			],
+			"pencil" : [
+				{
+					"itemId" : "sta_7",
+					"itemName" : "Faber-Castell Color Pencils - 24 Shades",
+					"itemShortDesc" : "Give outstanding results",
+					"itemLongDesc" : "<ul><li>Tri-Colour Pencils</li><li>Easy Grip, Can be Sharpened</li><li>Easy Grip, Can be Sharpened</li><li>Triangular shape for better control</li>Pigment rich leads for brilliant colouring</li></ul>",
+					"itemPrice" : "129",
+					"itemStock" : "27"
+				},
+				{
+					"itemId" : "sta_9",
+					"itemName" : "Staedtler Norica Rubber Tip",
+					"itemShortDesc" : "HB lead",
+					"itemLongDesc" : "<ul><li>Good quality pencil with eraser</li><li>Easy to erase</li><li>Easy to erase</li></ul>",
+					"itemPrice" : "120",
+					"itemStock" : "19"
+				}
+			]
+		},
+	"ele" : {
+			"apple" : [
+				{
+					"itemId" : "ele_2",
+					"itemName" : "Apple Watch Series 2" ,
+					"itemShortDesc" : "Space Gray Aluminum",
+					"itemLongDesc" : "Apple Watch Series 2 is a superior sports watch that measures your workouts with detailed customizable metrics. An advanced activity tracker that shows you how often you move, exercise, and stand, and lets you share your progress. A powerful health tool that helps you be more conscious of your overall well-being, starting with your heart rate. And an all-day assistant that provides instant access to the people, apps, and information you care about most. ",
+					"itemPrice" : "2300",
+					"itemStock" : "10"
+				},
+				{
+					"itemId" : "ele_3",
+					"itemName" : "Apple Watch Nike" ,
+					"itemShortDesc" : "Silver Aluminum",
+					"itemLongDesc" : "Motivation in motion. Pure and simple fun. Apple Watch Nike+ is the latest in a long-running partnership between two of the worlds most innovative brands. From cutting-edge comfort to the way it connects you to your running buddies through the Nike+ Run Club, it’s your perfect running partner-on your wrist. ",
+					"itemPrice" : "2530",
+					"itemStock" : "20"
+				},
+				{
+					"itemId" : "ele_5",
+					"itemName" : "Macbook® - 12\" Display" ,
+					"itemShortDesc" : "Intel Core M3 - 8GB Memory - 256GB Flash Storage",
+					"itemLongDesc" : "MacBook delivers a full-size experience in the lightest and most compact Mac notebook ever. With a full-size keyboard, force-sensing trackpad, 12-inch Retina display,1 sixth-generation Intel Core M processor, multifunctional USB-C port, and now up to 10 hours of battery life,2 MacBook features big thinking in an impossibly compact form.",
+					"itemPrice" : "7950",
+					"itemStock" : "8"
+				},
+				{
+					"itemId" : "ele_1",
+					"itemName" : "MacBook Air® 13.3\" Display" ,
+					"itemShortDesc" : "Intel Core i5 - 8GB Memory - 128GB Flash Storage",
+					"itemLongDesc" : "MacBook Air features up to 8GB of memory, a fifth-generation Intel Core processor, Thunderbolt 2, great built-in apps, and all-day battery life.1 Its thin, light, and durable enough to take everywhere you go-and powerful enough to do everything once you get there, better.",
+					"itemPrice" : "7230",
+					"itemStock" : "12"
+				},
+				{
+					"itemId" : "ele_6",
+					"itemName" : "MacBook Pro® with Touch Bar - 13\" Display " ,
+					"itemShortDesc" : "Intel Core i5 - 8 GB Memory - 512GB Flash Storage",
+					"itemLongDesc" : "The new MacBook Pro is faster and more powerful than before, yet remarkably thinner and lighter.¹ It has the brightest, most colorful Mac notebook display ever. And it introduces the revolutionary Touch Bar—a Multi-Touch– enabled strip of glass built into the keyboard for instant access to what you want to do, when you want to do it. The new MacBook Pro is built on groundbreaking ideas. And it’s ready for yours.",
+					"itemPrice" : "12500",
+					"itemStock" : "2"
+				},
+				{
+					"itemId" : "ele_4",
+					"itemName" : "MacBook® Pro - 15.4\" Display" ,
+					"itemShortDesc" : "Intel Core i7 - 16GB Memory - 512GB Flash Storage",
+					"itemLongDesc" : "The MacBook Pro with Retina display is the ideal notebook for enthusiasts and professionals looking for fast performance in an incredibly compact and light design. The Force Touch trackpad, powerful Intel Core processors, high performance graphics, faster PCIe-based flash storage, outstanding battery life, and a stunning Retina display take the MacBook Pro to a whole new level of performance.",
+					"itemPrice" : "16300",
+					"itemStock" : "7"
+				},
+				{
+					"itemId" : "ele_0",
+					"itemName" : "Apple - EarPods™ with Remote and Mic" ,
+					"itemShortDesc" : "Color: White",
+					"itemLongDesc" : "Control media playback, adjust the volume and answer and end calls on your Apple® iPod®, iPhone® or iPad® with these Apple EarPods™ MD827LL/A, which feature an in-line remote and mic for ease of use.",
+					"itemPrice" : "180",
+					"itemStock" : "5"
+				}	
+			],
+			"lenovo" : [
+				
+				{
+					"itemId" : "ele_7",
+					"itemName" : "ThinkPad Helix Gen 2" ,
+					"itemShortDesc" : "THE MOST COMPLETE BUSINESS 2-IN-1 PC.",
+					"itemLongDesc" : "The 11.6\" ThinkPad Helix gives you the purposeful design, trusted quality, and relentless innovation you’ve come to expect from any ThinkPad PC. Whether you use it in Tablet, Stand, Tent, Laptop, or Desktop Mode, this brilliantly engineered device offers a seamless user experience and sets a new standard for 2-in-1 computing.",
+					"itemPrice" : "12980",
+					"itemStock" : "5"
+				},
+				{
+					"itemId" : "ele_8",
+					"itemName" : "ThinkPad X1 Yoga" ,
+					"itemShortDesc" : "Intel Core i5-6200U Processor (3MB Cache, up to 2.80GHz)",
+					"itemLongDesc" : "The full-sized, backlit keyboard is spill-resistant and the keys retract automatically when not being used as a laptop, so they are not exposed when the keyboard is face-down on a desk or table. Plus, the X1 Yoga is tested against military specifications and made to endure extremes. Yet for all its durability, it weighs just 3 lbs / 1.36 kg. Like the rest of the X1 family, this convertible Ultrabook™ is thin, light, and tough.",
+					"itemPrice" : "13985",
+					"itemStock" : "3"
+				},
+				{
+					"itemId" : "ele_9",
+					"itemName" : "ThinkPad X260" ,
+					"itemShortDesc" : "Thin and light",
+					"itemLongDesc" : "Weighing in at less than 3 lbs and measuring 20.3 mm at its thickest point, the X260 is ultraportable — without sacrificing anything in terms of ports, connectivity, or durability.",
+					"itemPrice" : "6258",
+					"itemStock" : "9"
+				}
+			]
+		}
+	}
+}
